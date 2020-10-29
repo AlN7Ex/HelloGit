@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
-
+// CHANGE
 #define LEN 81
 
 char * s_gets(char * st, int n); 						//process input string
